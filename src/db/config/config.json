@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "pavel",
+    "password": "pavel",
+    "database": "new_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "migrationStorage": "json",
+    "seedersStorage": "json"
+  },
+  "test": {},
+  "production": {}
+}
