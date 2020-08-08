@@ -1,5 +1,5 @@
 const express = require('express');
-const {UserController} = require('./db/controllers');
+const UserController = require('../src/db/controllers/user');
 const PORT = process.env.NODE_PORT || 3000;
 
 const app = express();
